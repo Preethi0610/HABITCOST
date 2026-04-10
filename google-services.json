@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003170453709",
+    "project_id": "habitcost-da085",
+    "storage_bucket": "habitcost-da085.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003170453709:android:5d04c50ad2282299707184",
+        "android_client_info": {
+          "package_name": "com.habitcost.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003170453709-nthpv3if8bsuqpk23fs8rfh9i1dahdq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJGrn_4KueogZN9qiEbxxxak7gGWlAns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003170453709-nthpv3if8bsuqpk23fs8rfh9i1dahdq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

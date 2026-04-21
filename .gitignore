@@ -42,3 +42,4 @@ app-example
 /android
 google-services.json
 src/firebase/config.js
+src/firebase/config.js

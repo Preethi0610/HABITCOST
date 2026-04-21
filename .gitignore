@@ -41,3 +41,4 @@ app-example
 /ios
 /android
 google-services.json
+src/firebase/config.js

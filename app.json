@@ -29,6 +29,7 @@
     },
     "plugins": [
       "expo-dev-client",
+      "./plugins/withAdiRegistration",
       [
         "expo-build-properties",
         {
@@ -39,11 +40,6 @@
           }
         }
       ]
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "0208e7d9-4093-417b-8a76-0d85e9707885"
-      }
-    }
+    ]
   }
 }

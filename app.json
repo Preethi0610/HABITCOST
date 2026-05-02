@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#1A1A2E"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.habitcost.android"
@@ -40,6 +42,11 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0208e7d9-4093-417b-8a76-0d85e9707885"
+      }
+    }
   }
 }

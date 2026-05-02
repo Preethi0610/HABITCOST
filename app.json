@@ -14,14 +14,14 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.habitcost.app"
+      "bundleIdentifier": "com.habitcost.android"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundColor": "#1A1A2E"
       },
-      "package": "com.habitcost.app",
+      "package": "com.habitcost.android",
       "versionCode": 1
     },
     "web": {

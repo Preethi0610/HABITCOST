@@ -15,6 +15,7 @@
     "@react-navigation/stack": "^6.3.29",
     "@types/react": "~18.3.12",
     "expo": "^52",
+    "expo-asset": "~11.0.5",
     "expo-build-properties": "~0.13.3",
     "expo-dev-client": "~5.0.20",
     "expo-linear-gradient": "~14.0.2",

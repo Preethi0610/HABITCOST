@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+# 💸 HabitCost
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+I built this app for my mom.
 
-## Get started
+She never really tracked where her money went. Not because she didn't care, she just never had a simple way to see it. Rent, groceries, bills those were obvious. But the small things? The daily coffee, the subscriptions she forgot about, the Uber rides that added up without her noticing. Nobody thinks about those until it's too late.
 
-1. Install dependencies
+So I built HabitCost. Add your habits, and it shows you what they actually cost — not just this month, but across a year and the next 10 years. It shows you how many hours you worked just to pay for them. And it shows you how much faster you could reach the things you actually want a trip, a new phone, savings if you cut even one of them.
 
-   ```bash
-   npm install
-   ```
+It's not a budgeting app. It's not complicated. It's just clarity.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## What it does
 
-In the output, you'll find options to open the app in a
+You add a habit — coffee every morning, a streaming subscription, weekly takeout — and the app calculates:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- What it costs you monthly, yearly, and over 10 years
+- How many work hours you spend funding it
+- What that money could grow into if invested (7% annual return)
+- How cutting it would speed up every savings goal you have
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+You set goals - a laptop, a vacation, an emergency fund and split your monthly savings across them. Each goal shows two timelines: how long it takes at your current savings rate, and how much faster you get there if you cut your habits. The gap between those two numbers is the whole point of the app.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## Screenshots
 
-```bash
-npm run reset-project
-```
+| Home | Habits | Goals | Profile |
+|------|--------|-------|---------|
+| ![Home](screenshots/home.png) | ![Habits](screenshots/habits.png) | ![Goals](screenshots/goals.png) | ![Profile](screenshots/profile.png) |
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## Built with
 
-To learn more about developing your project with Expo, look at the following resources:
+- React Native + Expo SDK 52
+- Firebase Auth + Firestore
+- React Navigation
+- Lucide Icons
+- EAS Build for Android
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Download
 
-## Join the community
+Available on Google Play — search **HabitCost**
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Built by Preethi Amasa · 2026

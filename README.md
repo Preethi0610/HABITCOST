@@ -4,16 +4,6 @@
   
   # HabitCost - your habits are more expensive than you think.
 
-You're not broke. You're just subscribed to too many things.
-
-My mom lives in India. I live in the US. My friends are scattered everywhere. But we all had the same system - a chaotic Apple Notes list that we'd look at once and never open again. Meanwhile, the daily coffee, the forgotten subscriptions, the Rapido and Uber rides were quietly draining us every single month.
-
-Nobody notices ₹150 here, $5 there, and ₹299 somewhere else. Until you see it's a lot more than you thought across a year.
-
-So I built HabitCost for all of us. Add your habits. See what they actually cost you this month, this year, the next 10 years. Find out how many hours you worked just to fund your Swiggy or DoorDash addiction. And see exactly how much faster you could buy that laptop, go on that trip, or actually save money if you just cut one or two things.
-
-Supports 32 currencies. Works everywhere. No spreadsheets. No judgment. Just the number you've been avoiding.
-
 ## What it does
 
 You add a habit - coffee every morning, a streaming subscription, weekly takeout and the app calculates:
@@ -45,10 +35,6 @@ You set goals a laptop, a vacation, an emergency fund and split your monthly sav
 - React Navigation
 - Lucide Icons
 - EAS Build for Android
-
-## Download
-
-Available on Google Play - go search **HabitCost**
 
 Built by Preethi Amasa · 2026
 
